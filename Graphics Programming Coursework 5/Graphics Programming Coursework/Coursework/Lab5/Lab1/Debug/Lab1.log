@@ -1,0 +1,4 @@
+﻿  MainGame1.cpp
+c:\users\astaff200\downloads\graphics programming coursework 5\graphics programming coursework\coursework\lab5\lab1\maingame1.cpp(229): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab1.vcxproj -> C:\Users\astaff200\Downloads\Graphics Programming Coursework 5\Graphics Programming Coursework\Coursework\Lab5\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\astaff200\Downloads\Graphics Programming Coursework 5\Graphics Programming Coursework\Coursework\Lab5\Debug\Lab1.pdb (Partial PDB)
